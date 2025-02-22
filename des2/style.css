@@ -119,15 +119,15 @@ footer a{
     flex-direction: column;
 }
 footer a img{
-    height: 60px;
-    width: 60px;
-    border-radius: 10px;
+    height: 50px;
+    width: 50px;
+    border-radius: 12px;
 }
 footer img{
     height: 400px;
     width:400px;
     border-radius: 10px;
-    margin: 20px;
+    margin: 20px 10px;
 }
 .last p{
     font-size: 29px;
